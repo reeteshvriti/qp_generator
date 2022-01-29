@@ -1,6 +1,5 @@
 while True:
     inp = str(input("enter the Question "))
-    inp.split()
     levels = {'What': 'L1', 'Difference': 'L2', 'Explain': 'L3', 'Solve': 'L4', 'Compute': 'L4'}
 
     if inp in levels:
@@ -14,4 +13,3 @@ while True:
 
 
 
-        
