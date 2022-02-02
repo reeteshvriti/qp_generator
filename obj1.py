@@ -28,7 +28,7 @@ def level_check(key):
         print("Level : L6")
 
     else:
-        print("Enter a valid question")
+        print("Please enter a valid question")
 
 
 
