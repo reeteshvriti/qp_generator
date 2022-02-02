@@ -27,6 +27,11 @@ def level_check(key):
                  'Test', 'Theory']:
         print("Level : L6")
 
+    else:
+        print("Enter a valid question")
+
+
+
 while True:
     ip=input("Enter the question ")
     eq = ip.split()
