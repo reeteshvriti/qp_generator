@@ -7,7 +7,7 @@ def level_check(key):
                  'Outline', 'Relate', 'Rephrase', 'Show', 'Summarize', 'Translate']:
         print('Level : L2')
 
-    elif key in ['Apply', 'Build', 'Choose', 'Construct', 'Develop', 'Expirement', 'Experiment	with', 'Identify', 'Interview', 'Make',	'use of',
+    elif key in ['Apply', 'Build', 'Choose', 'Develop', 'Expirement', 'Experiment	with', 'Identify', 'Interview', 'Make',	'use of',
                 'Model', 'Organize', 'Plan', 'Select', 'Solve', 'Utilize']:
         print("Level : L3")
 
