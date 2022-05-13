@@ -3,12 +3,9 @@ def level_check(key):
                'Tell', 'What', 'When', 'Where', 'Which', 'Who', 'Why']:
         return 1
 
-
-
     elif key in ['Explain', 'Extend', 'Illustrate', 'Infer',
                  'Outline', 'Relate', 'Rephrase', 'Show', 'Summarize', 'Translate']:
         return 2
-
 
     elif key in ['Apply', 'Build', 'Develop', 'Experiment	with', 'Identify', 'Make', 'use of',
                  'Model', 'Organize', 'Plan', 'Select', 'Solve', 'Utilize']:
